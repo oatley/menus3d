@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a40b1087d57f814b8b791f78c8f9200
+timeCreated: 1457243700
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {fileID: 115730, guid: 8bbc487fe26c414408b56a73d25f7f67, type: 2}
+  - menuItemRenderer: {instanceID: 0}
+  - menuItemTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

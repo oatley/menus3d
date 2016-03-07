@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\controlLight.cs">
+    <Files>
+      <File FileName="Assets\Scripts\controlMenuItem.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\Main.cs" Line="13" Column="33" />
+      <File FileName="Assets\Scripts\controlLight.cs" Line="33" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
